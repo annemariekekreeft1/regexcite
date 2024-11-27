@@ -87,3 +87,5 @@ test_that("str_split_one() exposes features of stringr::str_split()", {
 
 
 use_github()
+use_readme_rmd()
+build_readme()
